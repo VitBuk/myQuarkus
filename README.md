@@ -1,3 +1,6 @@
+my attempt to learn Quarkus
+VitBuk 01.02.2024
+
 # code-with-quarkus
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
